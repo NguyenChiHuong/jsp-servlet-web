@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.laptrinhjavaweb.model.UserModel"/>
+    <fullyQualifiedTypeName name="com.javaweb.model.RoleModel"/>
+    <fullyQualifiedTypeName name="com.javaweb.util.HttpUtil"/>
+    <fullyQualifiedTypeName name="com.javaweb.constant.SystemConstant"/>
+    <fullyQualifiedTypeName name="com.javaweb.util.MessageUtil"/>
+    <fullyQualifiedTypeName name="com.javaweb.sort.Sorter.PageRequest"/>
+    <fullyQualifiedTypeName name="com.javaweb.util.FormUtil"/>
+    <fullyQualifiedTypeName name="com.javaweb.util.SessionUtil"/>
+    <fullyQualifiedTypeName name="com.javaweb.sort.Sorter"/>
+    <fullyQualifiedTypeName name="com.javaweb.service.ICategoryService"/>
+    <fullyQualifiedTypeName name="com.javaweb.service.INewService"/>
+    <fullyQualifiedTypeName name="com.javaweb.service.IUserService"/>
+    <fullyQualifiedTypeName name="com.laptrinhjavaweb.dao.impl.UserDAO"/>
+    <fullyQualifiedTypeName name="com.javaweb.mapper.UserMapper"/>
+    <fullyQualifiedTypeName name="com.javaweb.dao.IUserDAO"/>
+    <fullyQualifiedTypeName name="com.javaweb.dao.INewDAO"/>
+    <fullyQualifiedTypeName name="com.javaweb.mapper.NewMapper"/>
+    <fullyQualifiedTypeName name="com.javaweb.dao.ICategoryDAO"/>
+    <fullyQualifiedTypeName name="com.javaweb.mapper.CategoryMapper"/>
+    <fullyQualifiedTypeName name="com.javaweb.dao.GenericDAO"/>
+    <fullyQualifiedTypeName name="com.javaweb.mapper.RowMapper"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.javaweb.dao.impl.UserDAO"/>
+    <fullyQualifiedTypeName name="com.javaweb.model.NewModel"/>
+    <fullyQualifiedTypeName name="com.javaweb.paging.Pageble"/>
+    <fullyQualifiedTypeName name="com.javaweb.model.CategoryModel"/>
+    <fullyQualifiedTypeName name="com.javaweb.paging.PageRequest"/>
+    <fullyQualifiedTypeName name="com.javaweb.model.UserModel"/>
+</qualifiedTypeNameHistroy>

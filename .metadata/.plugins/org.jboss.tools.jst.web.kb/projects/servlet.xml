@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/huong/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="servlet"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/huong/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
+  <path value="C:/Users/huong/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <path value="C:/Users/huong/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+  <path value="C:/Users/huong/.m2/repository/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.jar"/>
+  <path value="C:/Users/huong/.m2/repository/javax/servlet/jsp-api/2.0/jsp-api-2.0.jar"/>
+  <path value="C:/Users/huong/.m2/repository/opensymphony/sitemesh/2.4.2/sitemesh-2.4.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-decorator.tld" project="servlet"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-page.tld" project="servlet"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/huong/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.3/jackson-annotations-2.6.3.jar"/>
+  <path value="C:/Users/huong/.m2/repository/org/jboss/weld/servlet/weld-servlet/1.1.0.Final/weld-servlet-1.1.0.Final.jar">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/lib-weld-servlet-1.1.0.Final.jar/meta-inf/faces-config.xml" project="servlet"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/huong/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar"/>
+  <path value="C:/Users/huong/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar"/>
+  <path value="C:/Users/huong/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+  <path value="C:/Users/huong/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.jar"/>
+  <path value="C:/Users/huong/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.jar"/>
+  <path value="C:/Users/huong/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar"/>
+  <path value="C:/Users/huong/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar"/>
+  <path value="C:/Users/huong/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar"/>
+  <path value="C:/Users/huong/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;%2;" path="%0"/>
+   <linked-resource name="%4;%5;" path="%3"/>
+   <linked-resource name="%4;" path="%6"/>
+   <linked-resource name="%2;%8;" path="%7"/>
+   <linked-resource name="%4;" path="%9"/>
+   <linked-resource name="%4;%5;" path="%10"/>
+   <linked-resource name="%1;" path="%11"/>
+   <linked-resource name="%1;%2;" path="%5"/>
+   <linked-resource name="%1;" path="%12"/>
+   <linked-resource name="%4;%5;" path="%13"/>
+   <linked-resource name="%4;%5;" path="%14"/>
+  </core>
+  <el>
+   <linked-el length="22" name="%15" offset="1298" path="%16"/>
+   <linked-el length="18" name="%17" offset="1139" path="%16"/>
+   <linked-el length="22" name="%18" offset="1298" path="%16"/>
+   <linked-el length="20" name="%19" offset="1224" path="%20"/>
+   <linked-el length="24" name="%19" offset="871" path="%20"/>
+   <linked-el length="21" name="%19" offset="839" path="%21"/>
+   <linked-el length="21" name="%19" offset="988" path="%20"/>
+   <linked-el length="27" name="%22" offset="4102" path="%23"/>
+   <linked-el length="21" name="%24" offset="839" path="%21"/>
+   <linked-el length="21" name="%24" offset="988" path="%20"/>
+   <linked-el length="15" name="%25" offset="2275" path="%23"/>
+   <linked-el length="14" name="%25" offset="1807" path="%23"/>
+   <linked-el length="19" name="%26" offset="1585" path="%16"/>
+   <linked-el length="22" name="%27" offset="394" path="%28"/>
+   <linked-el length="22" name="%27" offset="913" path="%29"/>
+   <linked-el length="22" name="%27" offset="1037" path="%23"/>
+   <linked-el length="21" name="%30" offset="2288" path="%29"/>
+   <linked-el length="16" name="%31" offset="4644" path="%23"/>
+   <linked-el length="14" name="%32" offset="5586" path="%23"/>
+   <linked-el length="23" name="%32" offset="4970" path="%23"/>
+   <linked-el length="19" name="%32" offset="5241" path="%23"/>
+   <linked-el length="14" name="%33" offset="5586" path="%23"/>
+   <linked-el length="29" name="%33" offset="1536" path="%23"/>
+   <linked-el length="33" name="%33" offset="2000" path="%23"/>
+   <linked-el length="27" name="%33" offset="4102" path="%23"/>
+   <linked-el length="16" name="%33" offset="4644" path="%23"/>
+   <linked-el length="20" name="%33" offset="3595" path="%23"/>
+   <linked-el length="23" name="%33" offset="4970" path="%23"/>
+   <linked-el length="19" name="%33" offset="5241" path="%23"/>
+   <linked-el length="16" name="%33" offset="3103" path="%23"/>
+   <linked-el length="21" name="%33" offset="2288" path="%29"/>
+   <linked-el length="16" name="%34" offset="1740" path="%16"/>
+   <linked-el length="15" name="%35" offset="1728" path="%23"/>
+   <linked-el length="15" name="%35" offset="2196" path="%23"/>
+   <linked-el length="22" name="%36" offset="1298" path="%16"/>
+   <linked-el length="18" name="%37" offset="1139" path="%16"/>
+   <linked-el length="18" name="%38" offset="1139" path="%16"/>
+   <linked-el length="15" name="%39" offset="2275" path="%23"/>
+   <linked-el length="37" name="%39" offset="2373" path="%29"/>
+   <linked-el length="13" name="%39" offset="2453" path="%29"/>
+   <linked-el length="24" name="%39" offset="2490" path="%29"/>
+   <linked-el length="12" name="%39" offset="2422" path="%23"/>
+   <linked-el length="14" name="%39" offset="1807" path="%23"/>
+   <linked-el length="12" name="%39" offset="1822" path="%23"/>
+   <linked-el length="13" name="%39" offset="2673" path="%29"/>
+   <linked-el length="12" name="%39" offset="2416" path="%29"/>
+   <linked-el length="23" name="%40" offset="1901" path="%16"/>
+   <linked-el length="24" name="%41" offset="2490" path="%29"/>
+   <linked-el length="10" name="%42" offset="425" path="%28"/>
+   <linked-el length="22" name="%42" offset="354" path="%28"/>
+   <linked-el length="12" name="%43" offset="2422" path="%23"/>
+   <linked-el length="12" name="%43" offset="1822" path="%23"/>
+   <linked-el length="16" name="%44" offset="3103" path="%23"/>
+   <linked-el length="13" name="%45" offset="2453" path="%29"/>
+   <linked-el length="15" name="%46" offset="1439" path="%16"/>
+   <linked-el length="20" name="%47" offset="3595" path="%23"/>
+   <linked-el length="23" name="%48" offset="1901" path="%16"/>
+   <linked-el length="12" name="%49" offset="2839" path="%29"/>
+   <linked-el length="18" name="%50" offset="1073" path="%23"/>
+   <linked-el length="18" name="%50" offset="936" path="%29"/>
+   <linked-el length="30" name="%50" offset="862" path="%29"/>
+   <linked-el length="30" name="%50" offset="985" path="%23"/>
+   <linked-el length="37" name="%51" offset="2373" path="%29"/>
+   <linked-el length="13" name="%51" offset="2673" path="%29"/>
+   <linked-el length="12" name="%51" offset="2416" path="%29"/>
+   <linked-el length="15" name="%52" offset="1439" path="%16"/>
+   <linked-el length="23" name="%53" offset="1901" path="%16"/>
+   <linked-el length="29" name="%54" offset="1536" path="%23"/>
+   <linked-el length="33" name="%54" offset="2000" path="%23"/>
+   <linked-el length="19" name="%55" offset="1585" path="%16"/>
+   <linked-el length="16" name="%56" offset="1740" path="%16"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/service/INewService.java" value="%7"/>
+  <alias path="/servlet/pom.xml" value="%16"/>
+  <alias path="servlet" value="%18"/>
+  <alias path="/servlet/src/main/java/com/javaweb/dao/GenericDAO.java" value="%14"/>
+  <alias path="USERMODEL" value="%19"/>
+  <alias path="model.shortDescription" value="%22"/>
+  <alias path="USERMODEL.fullName" value="%24"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/dao/impl/AbstractDAO.java" value="%10"/>
+  <alias path="/servlet/src/main/java/com/javaweb/dao/ICategoryDAO.java" value="%3"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/service/impl/NewService.java" value="%4"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/dao/impl/CategoryDAO.java" value="%13"/>
+  <alias path="model.listResult" value="%30"/>
+  <alias path="/servlet/src/main/webapp/views/login.jsp" value="%28"/>
+  <alias path="model.content" value="%31"/>
+  <alias path="/servlet/src/main/java/com/javaweb/dao/impl/NewDAO.java" value="%6"/>
+  <alias path="model.id" value="%32"/>
+  <alias path="model" value="%33"/>
+  <alias path="mysql" value="%34"/>
+  <alias path="servlet.api" value="%36"/>
+  <alias path="jsp.api" value="%38"/>
+  <alias path="item" value="%39"/>
+  <alias path="weld.servlet" value="%40"/>
+  <alias path="/servlet/src/main/java/com/javaweb/dao/INewDAO.java" value="%9"/>
+  <alias path="item.name" value="%43"/>
+  <alias path="model.title" value="%44"/>
+  <alias path="item.title" value="%45"/>
+  <alias path="jstl" value="%46"/>
+  <alias path="model.thumbnail" value="%47"/>
+  <alias path="messageResponse" value="%50"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/controller/admin/NewController.java" value="%2"/>
+  <alias path="jstl.version" value="%52"/>
+  <alias path="weld.servlet.version" value="%53"/>
+  <alias path="/servlet/src/main/webapp/common/admin/header.jsp" value="%21"/>
+  <alias path="/servlet/src/main/webapp/views/admin/new/edit.jsp" value="%23"/>
+  <alias path="mysql.version" value="%56"/>
+  <alias path="servlet.api.version" value="%15"/>
+  <alias path="jsp" value="%17"/>
+  <alias path="item.code" value="%25"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/service/IUserService.java" value="%11"/>
+  <alias path="/servlet/src/main/webapp/common/web/header.jsp" value="%20"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/controller/web/HomeController.java" value="%1"/>
+  <alias path="sitemesh.version" value="%26"/>
+  <alias path="alert" value="%27"/>
+  <alias path="categories" value="%35"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/controller/admin/api/NewApi.java" value="%8"/>
+  <alias path="jsp.api.version" value="%37"/>
+  <alias path="/servlet/src/main/webapp/views/admin/new/list.jsp" value="%29"/>
+  <alias path="item.shortDescription" value="%41"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/service/ICategoryService.java" value="%0"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/service/impl/CategoryService.java" value="%5"/>
+  <alias
+   path="/servlet/src/main/java/com/javaweb/service/impl/UserService.java" value="%12"/>
+  <alias path="message" value="%42"/>
+  <alias path="weld" value="%48"/>
+  <alias path="editURL" value="%49"/>
+  <alias path="item.id" value="%51"/>
+  <alias path="model.categoryCode" value="%54"/>
+  <alias path="sitemesh" value="%55"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://www.opensymphony.com/sitemesh/decorator">
+   <prefix>dec</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>
